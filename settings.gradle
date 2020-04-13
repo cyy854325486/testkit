@@ -1,0 +1,3 @@
+rootProject.name='TestKit'
+include ':app'
+include ':mylib'
